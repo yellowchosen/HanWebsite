@@ -15,11 +15,11 @@ output: html_document
 </style>
 
 <div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
+<div class="col-md-6">
 
 # **Han Liu**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+Han Liu is currently a graduate student of the University of Washington with a Master of Science in Biostatistics. He received his BA in Statistics and Mathematics from the University at Buffalo. Having a good understanding of both data science and statistical analysis, he has great interest in machine learning as well as big data. He has excellent insight into data and is proficient in using statistical models to explain problems based on complex data. Familiar with R, Python, SAS as well as SQL, he has the ability to be a great team member, write efficient code and provide critical thinking.
 
 ## How to use
 
@@ -31,9 +31,9 @@ This is a template example for lab journaling. Students in Matt Crump's Human Co
 
 4. Change everything to make it your own.
 
-
 </div>
 <div class="col-sm-6">
+
 
 ### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
 
