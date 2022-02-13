@@ -5,9 +5,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Experiences"
-      href: Journal.html
-    - text: "Projects"
-      href: Links.html
+      href: Experiences.html
     - text: "Life"
+      href: Life.html
+    - text: "Projects"
       href: Links.html
 output_dir: "docs"
